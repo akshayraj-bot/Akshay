@@ -1,2 +1,31 @@
-# Akshay
-Just 17year old guy doing AI projects
+# Hi, I'm Akshay 👋
+
+AI Developer
+
+I build AI applications and web projects.
+
+## 🚀 My Projects
+
+### ANZO AI
+
+AI Assistant with:
+- RAG
+- LangChain
+- Ollama
+- Web Search
+
+
+## 🛠 Skills
+
+Python
+JavaScript
+React
+FastAPI
+AI
+Machine Learning
+Git
+
+
+## 📫 Contact
+
+Email: akshayrlraj@gmail.com
